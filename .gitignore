@@ -1,0 +1,8 @@
+.idea
+.DS_Store
+docker/mysql
+docker/mariadb
+docker/nginx/logs
+docker/nginx/ssl
+src\.env
+.env
